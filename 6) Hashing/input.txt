@@ -1,0 +1,7 @@
+"abcdeaac"
+5
+a
+b
+z
+c
+e

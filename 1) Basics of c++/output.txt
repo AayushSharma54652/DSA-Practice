@@ -1,0 +1,7 @@
+Enter the number of vertices: Enter the number of edges: Enter the edges 
+
+Adjacency Matrix:
+0 1 0 0 
+1 0 1 0 
+0 1 0 1 
+0 0 1 0 
